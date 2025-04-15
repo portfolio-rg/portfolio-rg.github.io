@@ -8,13 +8,10 @@ Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a ch
 ## Projects & Certifications
 
 ### Project Overview 
-|     Project     |                 Skills                |     Tools       |      Link       |
-| --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure| [SIEM](https://portfolio-rg.github.io/projects/siem.html)
-  |
-|                 |                                       |                 |                 |
-|                 |                                       |                 |                 |
-
+|     Project     |                 Skills                |      Link       |
+| --------------- | ------------------------------------- | --------------- | 
+| Building a SIEM | Log management, Security Archtecture  | [SIEM](https://portfolio-rg.github.io/projects/siem.html)
+ 
 
 ### Certifications 
 List our your certifications and/or link to them. Also include the ones you plan on doing!
