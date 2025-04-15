@@ -8,7 +8,7 @@ Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a ch
 ## Projects & Certifications
 
 ### Project Overview
-#### [Project List] (projects/projectlist.md)
+[Project List](https://portfolio-rg.github.io/projects/projectlist.html)
 |     Project     |                 Skills                |      Link       |
 | --------------- | ------------------------------------- | --------------- | 
 | Building a SIEM | Log management, Security Archtecture  | [SIEM](https://portfolio-rg.github.io/projects/siem.html)
