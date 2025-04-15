@@ -1,5 +1,5 @@
 # Portfolio
-###Cybersecurity Student at Western Govenors University
+### Cybersecurity Student at Western Govenors University
 Technical Skills: 
 Education
 
